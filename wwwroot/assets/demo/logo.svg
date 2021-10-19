@@ -1,0 +1,14 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="50" width="50" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text transform="rotate(25.81438636779785 23.99999999999999,25.945312500000004) " font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_1" y="34.445313" x="16.640625" stroke-width="0" stroke="#000" fill="#000000">D</text>
+  <path id="svg_2" d="m-2.257507,23.713087l0,0c0,-12.702548 12.088314,-23 27.000003,-23l0,0c7.160843,0 14.028402,2.423206 19.091881,6.736543c5.063484,4.313338 7.908121,10.163476 7.908121,16.263458l0,0c0,12.702547 -12.088314,23 -27.000003,23l0,0c-14.911687,0 -27.000003,-10.297454 -27.000003,-23zm13.500001,0l0,0c0,6.351273 6.044161,11.5 13.500001,11.5c7.455846,0 13.500001,-5.148728 13.500001,-11.5c0,-6.351273 -6.044159,-11.5 -13.500001,-11.5l0,0c-7.455841,0 -13.500001,5.148729 -13.500001,11.5z" stroke-width="1.5" stroke="#000" fill="#fff"/>
+ </g>
+</svg>

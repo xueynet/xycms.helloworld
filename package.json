@@ -1,0 +1,34 @@
+﻿{
+  "name": "helloword",
+  "displayName": "示例插件",
+  "description": "这是一个Demo演示插件，用于指导如何开发XYCMS新的插件",
+  "version": "1.0.1",
+  "license": "AGPL-3.0",
+  "publisher": "xycms",
+  "engines": {
+    "xycms": "^8.0.3"
+  },
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "演示","示例插件"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xueynet/XYS"
+  },
+  "icon": "/assets/demo/logo.svg",
+  "main": "XYCMS.HelloWorld.dll",
+  "applyToSites": true,
+  "applyToChannels": false,
+  "extensions": {
+    "menus": {
+      "site_demo": {
+        "text": "示例插件",
+        "iconClass": "ion-connection-bars",
+        "link": "./demo/"
+      }
+    }
+  }
+}
